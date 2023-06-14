@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Walli_ai.git/static/css/main.28a86c1e.css",
+    "main.js": "/Walli_ai.git/static/js/main.facf59a3.js",
+    "static/js/787.6e8662bc.chunk.js": "/Walli_ai.git/static/js/787.6e8662bc.chunk.js",
+    "static/media/eva.png": "/Walli_ai.git/static/media/eva.1abe487f31dbc12a041a.png",
+    "static/media/logo.png": "/Walli_ai.git/static/media/logo.cc7cc3ceb7340a3ace61.png",
+    "static/media/walli.png": "/Walli_ai.git/static/media/walli.e386eef7f6c0fce95583.png",
+    "index.html": "/Walli_ai.git/index.html",
+    "main.28a86c1e.css.map": "/Walli_ai.git/static/css/main.28a86c1e.css.map",
+    "main.facf59a3.js.map": "/Walli_ai.git/static/js/main.facf59a3.js.map",
+    "787.6e8662bc.chunk.js.map": "/Walli_ai.git/static/js/787.6e8662bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28a86c1e.css",
+    "static/js/main.facf59a3.js"
+  ]
+}
